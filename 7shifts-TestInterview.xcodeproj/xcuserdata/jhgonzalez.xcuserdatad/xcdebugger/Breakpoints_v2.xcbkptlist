@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3740CD82-CE96-41A5-B82B-B395DAD8DF55"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FCF4DC1B-BB5C-44EE-8E9A-0A470193D515"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "7shifts-TestInterview/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "Add(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FCF4DC1B-BB5C-44EE-8E9A-0A470193D515 - fefc956f14ddfb54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_shifts_Test.Main.Add(Swift.Optional&lt;Swift.String&gt;) throws -&gt; Swift.Optional&lt;Swift.Int&gt;"
+                  moduleName = "7shifts-Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhgonzalez/Desktop/MyApp/Me/7shifts-TestInterview/7shifts-TestInterview/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "570">
+               </Location>
+               <Location
+                  uuid = "FCF4DC1B-BB5C-44EE-8E9A-0A470193D515 - fefc956f14ddfbef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_shifts_Test.Main.Add(Swift.Optional&lt;Swift.String&gt;) throws -&gt; Swift.Optional&lt;Swift.Int&gt;"
+                  moduleName = "7shifts-Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhgonzalez/Desktop/MyApp/Me/7shifts-TestInterview/7shifts-TestInterview/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "274">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C44BD36B-7662-4BE7-AC79-E3A70857298F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "7shifts-TestInterview/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "Add(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
